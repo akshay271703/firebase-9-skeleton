@@ -1,0 +1,14 @@
+{
+  "name": "firebase-9-skeleton",
+  "version": "1.0.0",
+  "description": "Ready to use firebase code to start using firebase 9 instantly",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.4.1"
+  }
+}
